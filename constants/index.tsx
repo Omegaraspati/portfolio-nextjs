@@ -18,7 +18,7 @@ export const SKILLS = [
     },
     {
         title: 'backend',
-        icon: 'backend.svg',
+        icon: '/backend.svg',
         description: 'backend developed lorem50'
     },
     {
