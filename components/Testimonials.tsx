@@ -15,7 +15,8 @@ const Testimonials = () => {
             <TestimonialsItem
               key={testimonial.title}
               imgURL={testimonial.imgURL}
-              title={testimonial.description}
+              title={testimonial.title}
+              description={testimonial.description}
             />
           ))
         }
