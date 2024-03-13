@@ -5,8 +5,8 @@ import Image from 'next/image'
 
 const Navbar = () => {
   return (
-    <nav className='padding-container relative  
-    z-30 rounded-lg bg-white shadow-xl ring-1 ring-slate-100'>
+    <nav className='padding-container relative
+    z-30 rounded-lg bg-white shadow-xl ring-1 ring-slate-100 '>
       <div className='flexBetween max-container'>
       <Link href="/" className=' bold-28 capitalize relative'>
           Omega<span className='text-blue-700'>raspati</span>

@@ -93,15 +93,15 @@ export const TESTIMONIAL = [
 
 //footer setion
 
-export const SOCIALS = [
-    {href: '/', key: 'github', label: '/github.svg'},
-    {href: '/', key: 'instagram', label: '/instagram.svg'},
-    {href: '/', key: 'twitter', label: '/twitter.svg'},
-    {href: '/', key: 'youtube', label: '/youtube.svg'},
-];
-
 export const FOOTER_LINKS = [
     {href: '/', key: 'home', label: 'Home'},
     {href: '/', key: 'skills', label: 'Skills'},
     {href: '/', key: 'portfolio', label: 'Portfolio'},
+];
+export const SOCIALS = [
+    {href: '/', key: 'github', imgURL: '/github.svg'},
+    {href: '/', key: 'instagram', imgURL: '/instagram.svg'},
+    {href: '/', key: 'twitter', imgURL: '/twitter.svg'},
+    {href: '/', key: 'youtube', imgURL: '/youtube.svg'},
+    {href: '/', key: 'facebook', imgURL: '/facebook.svg'},
 ];
