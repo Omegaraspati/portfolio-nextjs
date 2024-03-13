@@ -3,12 +3,12 @@ import Image from "next/image"
 
 type ButtonProps ={
     type: 'button' | 'submit';
-    tite: string;
+    title: string;
     icon?: string;
     variant: string;
 }
 
-const Button = ({type, title, icon, variant} : ButtonProps ) => {
+const Button = ({type,title, icon, variant} : ButtonProps ) => {
   return (
     <button className={`flexCenter gap-2 rounded-full border ${variant}`}type = {type}>
         <label className='font-[500] whitespace-nowrap cursor-pointer'>
