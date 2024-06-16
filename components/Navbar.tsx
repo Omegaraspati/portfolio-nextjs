@@ -9,7 +9,7 @@ const Navbar = () => {
     z-30 rounded-lg bg-white shadow-xl ring-1 ring-slate-100 '>
       <div className='flexBetween max-container'>
       <Link href="/" className=' bold-28 capitalize relative'>
-          Omega<span className='text-blue-700'>raspati</span>
+          My<span className='text-blue-700'>Portfolio</span>
           <span className='absolute top-[-0.3rem] right-[-1rem] 
           h-5 w-5 liearGradient rounded-full -z-10'></span>
         </Link>

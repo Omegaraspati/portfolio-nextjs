@@ -1,13 +1,14 @@
-import React from 'react'
+import Steps from '@/components/Steps'
+import Steps2 from '@/components/Steps2'
 import { PORTFOLIO } from '@/constants'
+import React from 'react'
 import Image from 'next/image'
-import Button from './Button'
-import Steps from './Steps'
-import Steps2 from './Steps2'
+import Button from '@/components/Button'
 
-const Portfolio = () => {
+const page = () => {
   return (
-    <section className='max-container padding-container gap-20 
+    <div>
+       <section className='max-container padding-container gap-20 
     py-10 pb-32 md:gap-28 lg:py-20 xl:flex-row bg-[#f7f7f7]'>
       <div className='text-center bold-18 uppercase 
       tracking-[1rem] text-blue-500 pb-20'>Experience</div>
@@ -30,9 +31,9 @@ const Portfolio = () => {
     }
   </ul>
     </section>
+    </div>
   )
 }
-
 type PortfolioItem ={
   title: string;
   imgURL: string;
@@ -55,4 +56,4 @@ const PortfolioItem = ({ title, imgURL, description } : PortfolioItem ) => {
     </li>
   )
 }
-export default Portfolio
+export default page

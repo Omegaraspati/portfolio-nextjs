@@ -2,7 +2,7 @@ import React from 'react'
 import { SKILLS } from "@/constants"
 import Image from 'next/image'
 
-const Skills = () => {
+const page = () => {
   return (
     <section className='max-container padding-container gap-20 py-10 pb-32 md:gap-28lg:py-20 xl:flex-row'>
       <div className='text-center bold-18 uppercase 
@@ -24,7 +24,7 @@ const Skills = () => {
   )
 }
 
-export default Skills
+export default page
 
 type SkillItem = {
   title: string;
