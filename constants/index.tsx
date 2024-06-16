@@ -73,17 +73,17 @@ export const PORTFOLIO = [
 export const TESTIMONIAL = [
     {
         title: 'Mobile Photography',
-        imgURL: '/images/MobilePhoto.jpg',
+        imgURL: '/images/MobilePhoto.png',
         description: 'Shoot from Iphone 11 Pro Max' 
     },
     {
         title: 'TypoGraphy',
-        imgURL: '/images/Typography.jpg',
+        imgURL: '/images/Typography.png',
         description: 'Shoot from Iphone 11 Pro Max'
     },
     {
         title: 'Mobile Photography',
-        imgURL: '/images/MobilePhoto2.jpg',
+        imgURL: '/images/MobilePhoto2.png',
         description: 'Shoot from Iphone 11 Pro Max'
     },
 ];

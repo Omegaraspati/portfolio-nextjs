@@ -22,7 +22,7 @@ const page = () => {
 
       <div className="grid border rounded-xl mx-24 gap-10 shadow-sm divide-y overflow-hidden sm:flex sm:divide-y-0 sm:divide-x dark:border-neutral-700 dark:shadow-neutral-700/70 dark:divide-neutral-600">
         <div className="flex flex-col flex-[1_0_0%] bg-white dark:bg-neutral-800">
-          <img className="w-full h-auto rounded-t-xl sm:rounded-se-none" src="/images/MobilePhoto.jpg" alt="Image Description" />
+          <img className="w-full h-auto rounded-t-xl sm:rounded-se-none" src="/images/MobilePhoto.png" alt="Image Description" />
           <div className="p-4 border-t sm:px-5 dark:border-neutral-700">
             <p className="text-xs text-gray-500 dark:text-neutral-500">
               Taken by IPhone 11 Pro Max
@@ -30,7 +30,7 @@ const page = () => {
           </div>
         </div>
         <div className="flex flex-col flex-[1_0_0%] bg-white dark:bg-neutral-800">
-          <img className="w-full h-auto rounded-t-xl sm:rounded-se-none" src="/images/1.jpg" alt="Image Description" />
+          <img className="w-full h-auto rounded-t-xl sm:rounded-se-none" src="/images/1.png" alt="Image Description" />
           <div className="p-4 border-t sm:px-5 dark:border-neutral-700">
             <p className="text-xs text-gray-500 dark:text-neutral-500">
               Taken by IPhone 11 Pro Max
@@ -38,7 +38,7 @@ const page = () => {
           </div>
         </div>
         <div className="flex flex-col flex-[1_0_0%] bg-white dark:bg-neutral-800">
-          <img className="w-full h-auto rounded-t-xl sm:rounded-se-none" src="/images/2.jpg" alt="Image Description" />
+          <img className="w-full h-auto rounded-t-xl sm:rounded-se-none" src="/images/2.png" alt="Image Description" />
           <div className="p-4 border-t sm:px-5 dark:border-neutral-700">
             <p className="text-xs text-gray-500 dark:text-neutral-500">
               Taken by IPhone 11 Pro Max
@@ -55,7 +55,7 @@ const page = () => {
       </div>
       <div className="grid border pt-20 rounded-xl mx-24 gap-10 shadow-sm divide-y overflow-hidden sm:flex sm:divide-y-0 sm:divide-x dark:border-neutral-700 dark:shadow-neutral-700/70 dark:divide-neutral-600">
         <div className="flex flex-col flex-[1_0_0%] bg-white dark:bg-neutral-800">
-          <img className="w-full h-auto rounded-t-xl sm:rounded-se-none" src="/images/3.jpg" alt="Image Description" />
+          <img className="w-full h-auto rounded-t-xl sm:rounded-se-none" src="/images/3.png" alt="Image Description" />
           <div className="p-4 border-t sm:px-5 dark:border-neutral-700">
             <p className="text-xs text-gray-500 dark:text-neutral-500">
               Taken by IPhone 11 Pro Max
@@ -63,7 +63,7 @@ const page = () => {
           </div>
         </div>
         <div className="flex flex-col flex-[1_0_0%] bg-white dark:bg-neutral-800">
-          <img className="w-full h-auto rounded-t-xl sm:rounded-se-none" src="/images/4.jpg" alt="Image Description" />
+          <img className="w-full h-auto rounded-t-xl sm:rounded-se-none" src="/images/4.png" alt="Image Description" />
           <div className="p-4 border-t sm:px-5 dark:border-neutral-700">
             <p className="text-xs text-gray-500 dark:text-neutral-500">
               Taken by IPhone 11 Pro Max
@@ -71,7 +71,7 @@ const page = () => {
           </div>
         </div>
         <div className="flex flex-col flex-[1_0_0%] bg-white dark:bg-neutral-800">
-          <img className="w-full h-auto rounded-t-xl sm:rounded-se-none" src="/images/8.jpg" alt="Image Description" />
+          <img className="w-full h-auto rounded-t-xl sm:rounded-se-none" src="/images/8.png" alt="Image Description" />
           <div className="p-4 border-t sm:px-5 dark:border-neutral-700">
             <p className="text-xs text-gray-500 dark:text-neutral-500">
               Taken by IPhone 11 Pro Max
@@ -96,7 +96,7 @@ const page = () => {
           '/></a>
       <div className="grid border pb-20 rounded-xl mx-24 gap-10 shadow-sm divide-y overflow-hidden sm:flex sm:divide-y-0 sm:divide-x dark:border-neutral-700 dark:shadow-neutral-700/70 dark:divide-neutral-600">
         <div className="flex flex-col flex-[1_0_0%] bg-white dark:bg-neutral-800">
-          <img className="w-full h-auto rounded-t-xl sm:rounded-se-none" src="/images/Typography.jpg" alt="Image Description" />
+          <img className="w-full h-auto rounded-t-xl sm:rounded-se-none" src="/images/Typography.png" alt="Image Description" />
           <div className="p-4 border-t sm:px-5 dark:border-neutral-700">
             <p className="text-xs text-gray-500 dark:text-neutral-500">
               Taken by IPhone 11 Pro Max
@@ -112,7 +112,7 @@ const page = () => {
           </div>
         </div>
         <div className="flex flex-col flex-[1_0_0%] bg-white dark:bg-neutral-800">
-          <img className="w-full h-auto rounded-t-xl sm:rounded-se-none" src="/images/7.jpg" alt="Image Description" />
+          <img className="w-full h-auto rounded-t-xl sm:rounded-se-none" src="/images/7.png" alt="Image Description" />
           <div className="p-4 border-t sm:px-5 dark:border-neutral-700">
             <p className="text-xs text-gray-500 dark:text-neutral-500">
               Taken by IPhone 11 Pro Max

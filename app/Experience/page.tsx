@@ -3,7 +3,6 @@ import Steps2 from '@/components/Steps2'
 import { PORTFOLIO } from '@/constants'
 import React from 'react'
 import Image from 'next/image'
-import Button from '@/components/Button'
 
 const page = () => {
   return (
