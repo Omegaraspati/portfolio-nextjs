@@ -14,7 +14,7 @@ const page = () => {
         Hallo..
       </h2>
 
-      <p className="hidden text-gray-500 md:mt-4 md:block">
+      <p className=" text-gray-500 md:mt-4 md:block">
       Perkenalkan saya Marsya Nurma Guvita lulusan SMA Negeri 27 Bandung. Saya memiliki bakat dan minat dibidang editing video dan Mobile Photography.
             Saya memiliki semangat yang tinggi dalam bekerja dan kemauan untuk belajar
             terhadap hal baru, mampu beradaptasi dengan lingkungan baru, sigap juga

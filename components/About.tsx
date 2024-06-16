@@ -28,7 +28,7 @@ const About = () => {
           '/></a>
         </div>
         <div className='flex-1 flexCenter'>
-          <Image src='/images/AboutMarsya.jpg' alt='about' height={333} width={333} className='w-auto
+          <Image src='/images/AboutMarsya.png' alt='about' height={333} width={333} className='w-auto
           rounded-full shadow-sm'/>
 
         </div>
