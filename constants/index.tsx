@@ -1,7 +1,4 @@
-//nav
 
-import Steps from "@/components/Steps";
-import { position } from "@chakra-ui/react";
 
 export const NAV_LINKS = [
     {href: '/', key: 'home', label: 'Home'},
